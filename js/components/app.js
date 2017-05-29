@@ -7,8 +7,8 @@ var Main = require('./main');
 const App = () => (
 	<div>
 		<Sidebar />
+		<Main />
 	</div>
 )
 
-			// <Main />
 module.exports = App;
